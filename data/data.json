@@ -1,0 +1,96 @@
+{
+  "profile":[
+    {
+      "image":"img/profile1.png",
+      "id":1,
+      "name":"Mounika",
+      "email":"mounika@gmail.com",
+      "label":"DBA",
+      "company":"Infosys"
+
+
+    },
+
+    {
+      "image":"img/profile1.png",
+      "id":2,
+      "name":"Sameera",
+        "email":"sam@gmail.com",
+      "label":"Front-end",
+      "company":"Polaris"
+    },
+
+    {
+      "image":"img/profile1.png",
+      "id":3,
+      "name":"Aafiya",
+        "email":"aafiya@gmail.com",
+      "label":"Techlead",
+      "company":"CA"
+    }
+
+  ],
+
+  "career":{
+      "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+              },
+
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"PSCMR",
+      "data":["2015-19","87%"]
+    },
+
+    {
+      "degree":"Intermediate/Diploma",
+      "institute":"Sri Chaitanya",
+      "data":["2013-15","97.1%"]
+    },
+
+    {
+      "degree":"S.S.C",
+      "institute":"STBEMHS",
+      "data":["2012-13","9.7"]
+    }
+
+  ],
+
+
+  "achievements":[
+    {
+      "name":"Awarded as <b>1<sup>st</sup>Prize</b> in <q> self-defense</q>"
+
+    },
+
+    {
+      "name":"Awarded as <strong>1<sup>st</sup>Prize</strong> in <q> PPT </q>"
+
+    }
+
+  ],
+
+  "skills":[
+    {
+      "name":"Programming Languages",
+      "data":["C","C++","Java","Python"]
+    },
+
+    {
+      "name":"Databases",
+      "data":["MySQL","Oracle"]
+    },
+
+    {
+      "name":"Web Technologies",
+      "data":["HTML","CSS","JS"]
+    },
+
+    {
+      "name":"Libraries",
+      "data":["Jquery","codeigniter"]
+    }
+
+    ]
+
+  }
